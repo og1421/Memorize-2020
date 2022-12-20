@@ -10,14 +10,14 @@
 		851C3E16295233C50036DCE4 /* Pie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C3E15295233C50036DCE4 /* Pie.swift */; };
 		851C3E192952348A0036DCE4 /* Cardify.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C3E182952348A0036DCE4 /* Cardify.swift */; };
 		851C3E1B295234AF0036DCE4 /* EmojiMemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C3E1A295234AF0036DCE4 /* EmojiMemoryGame.swift */; };
-		851C3E1D2952351E0036DCE4 /* Array+Identifiable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C3E1C2952351E0036DCE4 /* Array+Identifiable.swift */; };
-		851C3E1F2952355F0036DCE4 /* Array+Only.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C3E1E2952355F0036DCE4 /* Array+Only.swift */; };
 		851C3E21295235850036DCE4 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C3E20295235850036DCE4 /* Data.swift */; };
 		851C3E24295237B50036DCE4 /* Grid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C3E23295237B50036DCE4 /* Grid.swift */; };
 		851C3E27295237D30036DCE4 /* GridLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C3E26295237D30036DCE4 /* GridLayout.swift */; };
 		851C3E29295238110036DCE4 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C3E28295238110036DCE4 /* Landmark.swift */; };
 		851C3E2B295238380036DCE4 /* MemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C3E2A295238380036DCE4 /* MemoryGame.swift */; };
 		851C3E2E29523CF70036DCE4 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 851C3E2D29523CF70036DCE4 /* landmarkData.json */; };
+		851C3E3029523DBF0036DCE4 /* Array+identifiable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C3E2F29523DBF0036DCE4 /* Array+identifiable.swift */; };
+		851C3E3229523DE70036DCE4 /* Array+Only.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C3E3129523DE70036DCE4 /* Array+Only.swift */; };
 		85449E1D29522B2400223A09 /* Memorize_2020App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85449E1C29522B2400223A09 /* Memorize_2020App.swift */; };
 		85449E1F29522B2400223A09 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85449E1E29522B2400223A09 /* ContentView.swift */; };
 		85449E2129522B2500223A09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85449E2029522B2500223A09 /* Assets.xcassets */; };
@@ -51,14 +51,14 @@
 		851C3E15295233C50036DCE4 /* Pie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pie.swift; sourceTree = "<group>"; };
 		851C3E182952348A0036DCE4 /* Cardify.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cardify.swift; sourceTree = "<group>"; };
 		851C3E1A295234AF0036DCE4 /* EmojiMemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGame.swift; sourceTree = "<group>"; };
-		851C3E1C2952351E0036DCE4 /* Array+Identifiable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Array+Identifiable.swift"; sourceTree = "<group>"; };
-		851C3E1E2952355F0036DCE4 /* Array+Only.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Array+Only.swift"; sourceTree = "<group>"; };
 		851C3E20295235850036DCE4 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		851C3E23295237B50036DCE4 /* Grid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grid.swift; sourceTree = "<group>"; };
 		851C3E26295237D30036DCE4 /* GridLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridLayout.swift; sourceTree = "<group>"; };
 		851C3E28295238110036DCE4 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		851C3E2A295238380036DCE4 /* MemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGame.swift; sourceTree = "<group>"; };
 		851C3E2D29523CF70036DCE4 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = landmarkData.json; path = "../../../Visual Studio Code/landmarkData.json"; sourceTree = "<group>"; };
+		851C3E2F29523DBF0036DCE4 /* Array+identifiable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Array+identifiable.swift"; sourceTree = "<group>"; };
+		851C3E3129523DE70036DCE4 /* Array+Only.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Array+Only.swift"; sourceTree = "<group>"; };
 		85449E1929522B2400223A09 /* Memorize 2020.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Memorize 2020.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85449E1C29522B2400223A09 /* Memorize_2020App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memorize_2020App.swift; sourceTree = "<group>"; };
 		85449E1E29522B2400223A09 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -147,13 +147,13 @@
 				851C3E17295234670036DCE4 /* ViewMODEL */,
 				85449E4729522DDB00223A09 /* View */,
 				85449E1C29522B2400223A09 /* Memorize_2020App.swift */,
-				851C3E1C2952351E0036DCE4 /* Array+Identifiable.swift */,
-				851C3E1E2952355F0036DCE4 /* Array+Only.swift */,
+				851C3E2F29523DBF0036DCE4 /* Array+identifiable.swift */,
 				851C3E20295235850036DCE4 /* Data.swift */,
 				85449E2D29522B2500223A09 /* Memorize 2020Tests */,
 				85449E2029522B2500223A09 /* Assets.xcassets */,
 				85449E2229522B2500223A09 /* Memorize_2020.entitlements */,
 				85449E2329522B2500223A09 /* Preview Content */,
+				851C3E3129523DE70036DCE4 /* Array+Only.swift */,
 			);
 			path = "Memorize 2020";
 			sourceTree = "<group>";
@@ -329,16 +329,16 @@
 				851C3E16295233C50036DCE4 /* Pie.swift in Sources */,
 				851C3E192952348A0036DCE4 /* Cardify.swift in Sources */,
 				85449E1F29522B2400223A09 /* ContentView.swift in Sources */,
-				851C3E1F2952355F0036DCE4 /* Array+Only.swift in Sources */,
+				851C3E3229523DE70036DCE4 /* Array+Only.swift in Sources */,
 				851C3E21295235850036DCE4 /* Data.swift in Sources */,
 				85449E4929522E0D00223A09 /* LandMarkDetail.swift in Sources */,
 				851C3E27295237D30036DCE4 /* GridLayout.swift in Sources */,
 				851C3E29295238110036DCE4 /* Landmark.swift in Sources */,
 				85449E1D29522B2400223A09 /* Memorize_2020App.swift in Sources */,
-				851C3E1D2952351E0036DCE4 /* Array+Identifiable.swift in Sources */,
 				85449E4B29522E3400223A09 /* LandMarkList.swift in Sources */,
 				85449E4D29522EE700223A09 /* LandMarkRow.swift in Sources */,
 				851C3E2B295238380036DCE4 /* MemoryGame.swift in Sources */,
+				851C3E3029523DBF0036DCE4 /* Array+identifiable.swift in Sources */,
 				851C3E1B295234AF0036DCE4 /* EmojiMemoryGame.swift in Sources */,
 				851C3E24295237B50036DCE4 /* Grid.swift in Sources */,
 			);
